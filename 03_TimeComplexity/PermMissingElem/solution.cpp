@@ -1,7 +1,6 @@
 // https://app.codility.com/demo/results/training7XQSZ2-7DD/
 
 #include <vector>
-
 using namespace std;
 
 int solution(vector<int> &A) {
